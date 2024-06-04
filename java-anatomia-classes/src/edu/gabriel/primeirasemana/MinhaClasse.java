@@ -1,3 +1,4 @@
+package edu.gabriel.primeirasemana;
 public class MinhaClasse {
 public static void main(String[] args) {
     System.out.print("Gabriel Honório Souza dos Anjos");
@@ -10,7 +11,11 @@ public static void main(String[] args) {
 
 
 }
+public static String nomeCompleto (String primeiroNome,String segundonome ){
+    return primeiroNome
 
+
+}
 }
 
 
