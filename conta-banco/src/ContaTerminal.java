@@ -30,7 +30,7 @@ public class ContaTerminal {
         saldoConta=scanner.nextDouble();
 
         //Mensagem final com os dados da conta
-        System.out.println("Olá" + nomeCliente + "Thank you, você é nosso cliente agora");
+        System.out.println("Olá " + nomeCliente + "Thank you, você é nosso cliente agora");
         System.out.println("Seu número da conta é: " + numeroConta);
         System.out.println("Seu número da agência é: " + agencia);
         System.out.println("Seu saldo disponivel é: " + saldoConta);
