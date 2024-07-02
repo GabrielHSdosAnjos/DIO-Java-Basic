@@ -2,7 +2,7 @@ public class teste {
     public static void main(String[] args) {
         String concatenacao ="?"; 
 
-        concatenacao = 1+1+1+"1";
+        concatenacao = 1+1+1+"2";
         System.out.println(concatenacao);
 
         concatenacao = 1+"1"+1+1;
